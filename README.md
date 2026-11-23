@@ -29,7 +29,7 @@ Rust · GPUI · shakmaty · Stockfish · Lichess API · **[Download](https://ket
 
 #### Tools I work with
 
-`Rust` `Swift` `SwiftUI` `GPUI` `TypeScript` `Vue` `Python` `GitHub Actions`
+`Rust` `Swift` `SwiftUI` `GPUI` `TypeScript` `Vue` `GitHub Actions`
 
 <!--
   Optional extras you can add later:
