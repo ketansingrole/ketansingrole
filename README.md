@@ -12,7 +12,7 @@ I build desktop and iOS apps, mostly in **Rust** and **Swift**, and I care about
 #### Featured project
 
 <a href="https://github.com/ketansingrole/KChess-V2">
-  <img src="https://raw.githubusercontent.com/ketansingrole/KChess-V2/main/site/screenshots/play.jpg" alt="KChess playing against Stockfish" width="720">
+  <img src="https://raw.githubusercontent.com/ketansingrole/KChess-V2/main/site/screenshots/analysis.jpg" alt="KChess reviewing a game with Stockfish" width="720">
 </a>
 
 **[KChess](https://github.com/ketansingrole/KChess-V2)** lets you play Stockfish and Lichess, review games, solve puzzles and train, in one native window.
